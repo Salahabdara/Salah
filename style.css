@@ -1,0 +1,10 @@
+
+body { font-family: Arial, sans-serif; margin:0; padding:0; background: linear-gradient(180deg,#e6f3ff,#ffffff); color:#023e8a; }
+.header { background: linear-gradient(90deg,#0056b3,#00aaff); color: white; padding:30px 20px; text-align:center; }
+.header h1 { margin:0; font-size:40px; letter-spacing:1px; }
+.container { max-width:1000px; margin:20px auto; padding:20px; background: white; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.job { border-left:6px solid #00aaff; padding:12px; margin-bottom:12px; }
+.actions a { display:inline-block; margin-right:8px; padding:8px 12px; background:#0056b3; color:white; text-decoration:none; border-radius:6px; }
+.lang-switch { position:absolute; right:20px; top:20px; }
+.footer { text-align:center; padding:20px; color:#0056b3; }
+.notice { background:#e6f7ff; border:1px solid #bfe9ff; padding:10px; border-radius:6px; margin-bottom:12px; }
